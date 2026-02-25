@@ -81,8 +81,7 @@ p {
   font-family: "Domine";
   line-height: 1.5;
   letter-spacing: 0.25px;
-  word-spacing: 1px;
-  
+  word-spacing: 1.25px;
 }
 
 section h2 + p {
@@ -136,6 +135,8 @@ ul {
 li {
   font-family: "Domine";
   line-height: 1.5;
+  letter-spacing: 0.25px;
+  word-spacing: 1.25px;
 }
 
 nav ul {
